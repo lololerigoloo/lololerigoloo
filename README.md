@@ -6,11 +6,21 @@
 
 ### `> SYSTEM ONLINE_` 🟢
 
-**Software Engineering Student @ Polytechnique Montréal**  
+**Software Engineering Student at Polytechnique Montréal**  
 `AI` · `Cybersecurity` · `Backend` · `Systems Programming`
 
-![Internship](https://img.shields.io/badge/STATUS-SEEKING%20INTERNSHIP-00ffb3?style=for-the-badge&labelColor=101827)
-![Location](https://img.shields.io/badge/BASED%20IN-QU%C3%89BEC-8b5cf6?style=for-the-badge&labelColor=101827)
+![Seeking an internship](https://img.shields.io/badge/STATUS-SEEKING%20AN%20INTERNSHIP-00ffb3?style=for-the-badge&labelColor=101827)
+![Based in Québec](https://img.shields.io/badge/BASED%20IN-QU%C3%89BEC-8b5cf6?style=for-the-badge&labelColor=101827)
+
+<a href="https://www.linkedin.com/in/laurent-corbeil-184357383/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+<a href="https://discord.com/users/917922010213023744">
+  <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile" />
+</a>
+<a href="mailto:laurentcorbeil05@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Laurent" />
+</a>
 
 </div>
 
@@ -18,51 +28,50 @@
 
 ## `01 // ABOUT ME`
 
-```text
-> whoami
-Laurent Corbeil
+I’m a software engineering student at **Polytechnique Montréal** who enjoys understanding how things work under the hood. I’m curious, self-motivated, and drawn to hands-on projects—from experimenting with autonomous agents to exploring Linux and software systems.
 
-> current_mission
-Learn deeply. Build useful software. Find a software engineering internship.
-
-> interests
-Artificial Intelligence / Cybersecurity / Backend / Low-Level Systems
-```
-
-I'm a software engineering student at **Polytechnique Montréal** who enjoys figuring out how things work under the hood. I'm curious, self-driven, and motivated by hands-on projects—from experimenting with autonomous agents to exploring Linux and software systems.
-
-Outside programming, working as a **lifeguard and swimming instructor** has taught me to communicate clearly, collaborate with others, and take responsibility.
+Outside of programming, my work as a **lifeguard and swimming instructor** has helped me develop clear communication, teamwork, and a strong sense of responsibility.
 
 ## `02 // TECH & TOOLS`
 
-**Current toolkit**
+**Tools I use**
 
 ![Python](https://img.shields.io/badge/Python-141b2d?style=for-the-badge&logo=python&logoColor=4fd1c5)
 ![Linux](https://img.shields.io/badge/Linux-141b2d?style=for-the-badge&logo=linux&logoColor=4fd1c5)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-141b2d?style=for-the-badge&logo=ubuntu&logoColor=4fd1c5)
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/></a>
+</p>
 
-**Used in personal projects**
+**Used in a personal project**
 
 ![Unity](https://img.shields.io/badge/Unity-141b2d?style=for-the-badge&logo=unity&logoColor=a78bfa)
 ![C Sharp](https://img.shields.io/badge/C%23-141b2d?style=for-the-badge&logo=sharp&logoColor=a78bfa)
-![ML Agents](https://img.shields.io/badge/Unity%20ML--Agents-141b2d?style=for-the-badge&logoColor=a78bfa)
+![Unity ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-141b2d?style=for-the-badge&logo=unity&logoColor=a78bfa)
 
-**Areas I'm exploring:** reinforcement learning, secure systems, backend architecture, C/C++, and memory management.
+**Currently exploring:** reinforcement learning, secure systems, backend architecture, C/C++, and memory management.
 
-## `03 // FEATURED BUILD`
+## `03 // FEATURED PROJECT`
 
 ### 🏎️ Autonomous AI Racing Simulation — Unity / Reinforcement Learning / VR
 
-An independently developed virtual-reality racing environment where AI-controlled cars learned to navigate a track through **reinforcement learning**.
+I independently developed a virtual reality racing environment where AI-controlled cars learned to navigate a track using **reinforcement learning**.
 
-- Built agents with **Unity ML-Agents**, using **raycast sensors** to perceive their surroundings.
-- Gave the agents driving actions: accelerate, reverse, steer left, and steer right.
+- Built agents with **Unity ML-Agents** and raycast sensors to perceive their surroundings.
+- Set up driving actions for accelerating, reversing, and steering.
 - Designed a **checkpoint-based reward system** to guide learning and track progress.
-- Added a virtual prediction/betting mechanic for race outcomes.
+- Added a virtual prediction and betting mechanic for race outcomes.
 
 `Unity` `C#` `Python` `ML-Agents` `Reinforcement Learning` `Raycasting` `VR`
 
-> This is an earlier personal project. Its original repository and media are no longer available.
+> This was an earlier personal project. Its original repository and media are no longer available.
 
 ## `04 // CURRENT MISSION`
 
@@ -72,16 +81,6 @@ An independently developed virtual-reality racing environment where AI-controlle
 [●] Exploring AI, cybersecurity, backend, and systems programming
 [>] Seeking an opportunity to contribute as a software engineering intern
 ```
-
-## `05 // CONNECT`
-
-I'm always interested in learning from others and working on meaningful technical challenges.
-
-[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-corbeil-184357383/)
-
-<div align="center">
-
----
 
 `// STAY CURIOUS. KEEP BUILDING. //`
 
